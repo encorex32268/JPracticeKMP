@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JPractice</string>
+
+    <string name="home_seion">Seion</string>
+    <string name="home_dakuon">Dakuon</string>
+    <string name="home_yoon">Yoon</string>
+
+</resources>
